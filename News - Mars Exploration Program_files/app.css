@@ -1,0 +1,223 @@
+body{
+	font-family: "Montserrat",Helvetica,Arial,sans-serif;
+}
+
+.navbar{
+	background-color: #5A2017;
+}
+
+.logo{
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff!important;
+    margin-top: -14px;
+}
+.logo1{
+	font-weight: normal;
+	font-size: 14px;
+	display: block;
+    margin-left: 80px;
+    margin-top: -18px;
+    color: #fff!important;
+}
+.nav-link{
+	color: #fff !important;
+	font-family: "Montserrat",Helvetica,Arial,sans-serif;
+	font-weight: 600;
+}
+.nav_search{
+	    background: url(https://mars.nasa.gov/assets/ui_sprite@2x.png) -131px -5px;
+    background-size: 300px;
+        opacity: .8;
+            width: 38px;
+    height: 38px;
+    background-color: #8C635D;
+    border-radius: 4px;
+}
+
+.search{
+	margin: 100px 0px 30px;
+}
+
+h1{
+	font-weight: 300;
+    color: #6d3007;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
+        margin-top: 100px;
+}
+.search_binder{
+	display: flex;
+}
+input{
+	width: 100%;
+	    background-color: #F3F4F8;
+    color: #222;
+        font-weight: 500;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    height: 40px;
+    padding-left: 1.1em;
+    padding-right: 40px;
+
+}
+
+.search_submit{
+	    padding: 0;
+    cursor: pointer;
+    width: 42px;
+    height: 40px;
+    background: url(https://mars.nasa.gov/assets/ui_sprite@2x.png) -127px -54px;
+    background-size: 300px;
+    opacity: .6;
+     background-color: #F3F4F8;
+     margin-left: -44px;
+}
+
+
+.filter select{
+	background: #3b788b url(https://mars.nasa.gov/assets/arrows_select_box@2x.png) no-repeat 95% 10px;
+    background-position: right .8em top 10px;
+    background-size: 9px;
+    font-weight: 700;
+    cursor: pointer;
+    padding: .5em 2em .5em 1em;
+    font-size: 16px;
+    border: 0;
+    height: 40px;
+    vertical-align: middle;
+    color: white;
+}
+
+.image_and_description_container{
+	margin: 50px 0px;
+}
+
+.image_and_description_container p{
+	font-size: .9em;
+    margin-bottom: .4em;
+    color: #5A5A5A;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
+}
+
+.image_and_description_container .content_title{
+	    color: #222;
+	    margin-bottom: .4em;
+	    letter-spacing: -.035em;
+	    font-weight: bold;
+	        font-size: 1.71em;
+}
+
+.image_and_description_container hr{
+	margin: 26px 0px;
+}
+
+.image_and_description_container .article_teaser_body{
+	font-family: "Montserrat",Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+        font-size: 1.20rem;
+}
+.image_and_description_container button{
+	font-weight: 700;
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3b788b;
+    color: white;
+    line-height: 1em;
+    border: 0;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-shadow: none;
+    padding: 12px 24px;
+    text-transform: uppercase;
+    white-space: nowrap;
+    display: block;
+    margin-bottom: 100px;
+}
+
+.last_news{
+	background-color: #eef2f6;
+	margin: 30px auto 0px !important;
+	    padding-bottom: 50px;
+	       /* width: 100%;*/
+}
+
+.last_news h2{
+	font-weight: 300;
+    color: #6d3007;
+    text-align: center;
+    margin: 50px auto 30px;
+}
+.prev{
+	border-radius: 50%;
+    background-color: #D3E4FF;
+    width: 33px;
+    height: 33px;
+    padding: 6px 12px;
+    color: #575E69;
+}
+.next{
+	border-radius: 50%;
+    background-color: #D3E4FF;
+    width: 33px;
+    height: 33px;
+    padding: 6px 12px;
+    color: #575E69;
+}
+.next{
+	border-radius: 50%;
+    background-color: #D3E4FF;
+    width: 33px;
+    height: 33px;
+}
+.last_news .card-body{
+background-color: #eef2f6;
+}
+
+.last_news .card{
+	border: none;
+}
+
+.card-text{
+	font-weight: 400;
+	font-family: "Montserrat",Helvetica,Arial,sans-serif;
+	line-height: 1.4;
+	font-size: 1.14rem;
+}
+.footer{
+	background: #000  center no-repeat;
+    background-size: cover;
+}
+
+
+.footer{
+	color: #fff;
+	padding: 50px 0px;
+    font-family: "Montserrat",Helvetica,Arial,sans-serif;
+}
+
+.footer ul{
+    list-style: none;
+    padding-left: 0px;
+    color: #5BBAFC;
+    font-size: 15px;
+}
+
+.disable {
+opacity: 0.3;
+pointer-events: none;
+}
+#edx {
+    padding-top: 20px;
+    text-align: center;
+}
+#datasource {
+    text-align: center;
+}
+#datasource a {
+    color:blanchedalmond;
+}
