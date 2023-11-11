@@ -57,4 +57,3 @@ Acknowledgments
 Data scraping opportunities provided by the Mars News website and the Mars Temperature Data Site.
 Support and guidance from the UTOR-VIRT-DATA Bootcamp instructors, TAs, and student success managers.
 Good luck with the challenge, and feel free to reach out for assistance if needed!
-
