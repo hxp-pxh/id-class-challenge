@@ -39,7 +39,7 @@ Jupyter Notebook for code execution and documentation
 
 ## Student
 
-Hanns Peter Princivil
+HxP
 
 ## Date
 
